@@ -1,7 +1,7 @@
 {
-  "name": "Radio Party Valencia",
-  "short_name": "Radio Party",
-  "description": "Radio Party Valencia - Radio Online en Vivo",
+  "name": "FM LIBERTADOR 101.3",
+  "short_name": "FM LIBERTADOR 101.3",
+  "description": "FM LIBERTADOR 101.3 - Radio Online en Vivo",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
